@@ -1,0 +1,13 @@
+export const GET_OPTIONS = "getOptions";
+export const RESTART = "restart";
+export const NEW_GAME = "newGame";
+export const SHOW_OPTIONS = "showOptions";
+export const HIDE_OPTIONS = "hideOptions";
+export const SHOW_RESULT = "showResult";
+export const HIDE_RESULT = "hideResult";
+export const UPDATE_STATUS = "updateStatus";
+export const UPDATE_HOLES = "updateHoles";
+export const CREATE_HOLES = "createHoles";
+export const SET_HOLE_1 = "setHole1";
+export const SET_HOLE_2 = "setHole2";
+export const SET_MOVE = "setMove";
